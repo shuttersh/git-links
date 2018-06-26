@@ -1,7 +1,15 @@
 {
   "name": "git-links",
-  "description": "Parse git remote URLs to shorthand format as in package.json and resolve shorthand links to full URLs.",
   "version": "0.0.0",
+  "description": "Normalize git URLs to shorthand format and denormalize to repository, branch or pull request links.",
+  "keywords": [
+    "git",
+    "github",
+    "gitlab",
+    "bitbucket",
+    "normalize",
+    "shorthand"
+  ],
   "license": "MIT",
   "author": "Andy Wermke (https://github.com/andywer)",
   "main": "dist/index.js",
