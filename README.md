@@ -1,8 +1,8 @@
 # git-links
 
-Parse git remote URLs to shorthand format as in package.json and resolve shorthand links to full URLs.
+Parse git remote URLs to shorthand format as used in the package.json `repository` field and resolve shorthand links to full URLs.
 
-Great for normalizing and denormalizing links to repositories.
+Great for normalizing and denormalizing links to repositories, branches and pull requests.
 
 
 ## Installation
