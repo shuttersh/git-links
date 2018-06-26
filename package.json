@@ -1,6 +1,6 @@
 {
   "name": "git-links",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Normalize git URLs to shorthand format and denormalize to repository, branch or pull request links.",
   "keywords": [
     "git",
