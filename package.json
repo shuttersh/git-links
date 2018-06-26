@@ -1,0 +1,23 @@
+{
+  "name": "git-links",
+  "description": "Parse git remote URLs to shorthand format as in package.json and resolve shorthand links to full URLs.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Andy Wermke (https://github.com/andywer)",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "ava-ts",
+    "posttest": "tslint --project .",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "ava-ts": "^0.24.6",
+    "ts-node": "^7.0.0",
+    "tslint": "^5.10.0",
+    "tslint-config-standard": "^7.1.0",
+    "typescript": "^2.9.2"
+  }
+}
