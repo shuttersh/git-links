@@ -12,6 +12,7 @@
   ],
   "license": "MIT",
   "author": "Andy Wermke (https://github.com/andywer)",
+  "repository": "github:shuttersh/git-links",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
