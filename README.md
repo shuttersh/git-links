@@ -1,4 +1,4 @@
-# git-links
+# git-links [![Build Status](https://travis-ci.org/shuttersh/git-links.svg?branch=master)](https://travis-ci.org/shuttersh/git-links) [![NPM Version](https://img.shields.io/npm/v/git-links.svg)](https://www.npmjs.com/package/git-links)
 
 Parse git remote URLs to shorthand format as used in the package.json `repository` field and resolve shorthand links to full URLs.
 
